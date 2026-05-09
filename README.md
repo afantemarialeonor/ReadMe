@@ -10,7 +10,7 @@ I'm a full stack developer...
 ------------------------------
 Java, Figma, Framer...
 
-**Projects **
+Projects
 -------------------------------
 _Evergreen Renewal Services_
 

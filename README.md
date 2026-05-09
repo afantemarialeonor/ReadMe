@@ -12,7 +12,7 @@ Java, Figma, Framer...
 
 Projects
 -------------------------------
-_Evergreen Renewal Services_
+> _Evergreen Renewal Services_
 
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/a774c701-b753-4d02-b668-634ee23d6562" />
 

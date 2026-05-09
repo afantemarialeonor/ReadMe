@@ -2,7 +2,7 @@ Hi, I'm Maria Leonor Afante! 👋
 
 This is my portfolio 
 
-🚀 ** About Me**
+🚀 About Me
 -------------------------
 
 I'm a full stack developer...

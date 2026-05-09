@@ -10,7 +10,8 @@ I'm a full stack developer...
 
 Java, figma, framer..
 
-<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/0bd7713d-95f3-44c8-9f8e-f54c368ee982" /> Evergreen Renewal Services
+<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/0bd7713d-95f3-44c8-9f8e-f54c368ee982" /> 
+Evergreen Renewal Services
 
 A brief description of what this project does and who it's for
 

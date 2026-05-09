@@ -1,26 +1,27 @@
-# ReadMe
-This is my portfolio 
 Hi, I'm Maria Leonor Afante! 👋
 
-🚀 About Me
+This is my portfolio 
+
+🚀 ** About Me**
+-------------------------
 
 I'm a full stack developer...
 
-🛠 Skills
+🛠 **Skills**
 
 Java, figma, framer..
+------------------------------
 
 
+**Projects **
+-------------------------------
+_Evergreen Renewal Services_
 
-Projects <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/0bd7713d-95f3-44c8-9f8e-f54c368ee982" /> 
-
-Evergreen Renewal Services
-
-A brief description of what this project does and who it's for
+Evergreen Renewal Services’ website redesign creates a modern, user-friendly online presence for homeowners and property managers seeking reliable renovation and property improvement services.
 
 Features
 
-Web and mobile wireframes
-Live previews
-Fullscreen mode
-Cross platform
+- Web and mobile wireframes
+- Live previews
+- Fullscreen mode
+- Cross platform

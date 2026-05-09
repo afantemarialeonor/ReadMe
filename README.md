@@ -3,10 +3,11 @@ This is my portfolio
 Hi, I'm Maria Leonor Afante! 👋
 
 🚀 About Me
+
 I'm a full stack developer...
 
 🛠 Skills
-Java, figma, framer
+Java, figma, framer..
 
 Evergreen Renewal Services
 
